@@ -1,6 +1,6 @@
 ## Joshua Pickard
 
-I am a student at the University of Michigan in the Department of Computer Science and Electricial Engineering and the Deparment of Computational Medicine and Bioinformatics. 
+I am a student at the University of Michigan in the Department of Computer Science and Electricial Engineering and the Deparment of Computational Medicine and Bioinformatics. I am currently interested in mathematical modeling, signals processing, and machine learning. This website contains information on my current work, previous projects, and interests.
 
 You can use the [editor on GitHub](https://github.com/Jpickard1/pickard.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
