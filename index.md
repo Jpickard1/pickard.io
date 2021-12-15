@@ -4,6 +4,9 @@ I am a student at the University of Michigan in the Department of Computer Scien
 
 This is a line to my notes on [machine learning](https://github.com/Jpickard1/pickard.io/blob/master/Edits_of__Bioinf_580__Introduction_to_Signals_Processing_and_Machine_Learning_for_Biomedical_Sciences%20(1).pdf)
 
+<embed src="https://github.com/Jpickard1/pickard.io/blob/master/Edits_of__Bioinf_580__Introduction_to_Signals_Processing_and_Machine_Learning_for_Biomedical_Sciences%20(1).pdf" type="application/pdf" />
+
+
 You can use the [editor on GitHub](https://github.com/Jpickard1/pickard.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
