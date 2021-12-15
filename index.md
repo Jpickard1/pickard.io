@@ -1,5 +1,7 @@
 ## Joshua Pickard
 
+I am a student at the University of Michigan in the Department of Computer Science and Electricial Engineering and the Deparment of Computational Medicine and Bioinformatics. 
+
 You can use the [editor on GitHub](https://github.com/Jpickard1/pickard.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
