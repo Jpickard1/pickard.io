@@ -4,6 +4,9 @@ I am a student at the University of Michigan in the Department of Computer Scien
 
 This is a line to my notes on [machine learning](https://github.com/Jpickard1/pickard.io/blob/master/Edits_of__Bioinf_580__Introduction_to_Signals_Processing_and_Machine_Learning_for_Biomedical_Sciences%20(1).pdf)
 
+<a href="https://github.com/Jpickard1/pickard.io/blob/master/Edits_of__Bioinf_580__Introduction_to_Signals_Processing_and_Machine_Learning_for_Biomedical_Sciences%20(1).pdf" target="_blank">PDF.</a>
+
+
 <embed src="https://github.com/Jpickard1/pickard.io/blob/master/Edits_of__Bioinf_580__Introduction_to_Signals_Processing_and_Machine_Learning_for_Biomedical_Sciences%20(1).pdf" type="application/pdf" />
 
 
